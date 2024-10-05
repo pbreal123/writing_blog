@@ -38,7 +38,7 @@ AmesHousingPrediction/ │ ├── AmesHousing.csv # The dataset containing ho
    ```bash
    git clone https://github.com/pbreal123/writing_blog.git
    pip install pandas numpy matplotlib seaborn scikit-learn
-   jupyter notebook AmesHousingPrediction.ipynb
+   jupyter notebook Prediction.ipynb
 
 ## Conclusion
 In this project, we applied different regression models to predict house prices based on various features from the Ames Housing dataset. The goal is to showcase technical skills in data analysis and machine learning, as well as the ability to communicate results effectively.
