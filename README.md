@@ -1,4 +1,4 @@
-# Unlocking the Power of Data Science: A Deep Dive into Predictive Analytics with Python
+# An Odyssey into Predictive Analytics with Python
 
 # Libraries used
 pandas
